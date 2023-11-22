@@ -1,0 +1,1 @@
+D:\Mobile\Project\XamarinMHike\XamarinMHike\XamarinMHike.csproj;x64
